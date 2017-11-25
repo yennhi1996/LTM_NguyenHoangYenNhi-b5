@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSServer", "DNSServer\DNSServer.csproj", "{81784D73-B95C-492C-8238-BBD4692A5A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSClient", "DNSClient\DNSClient.csproj", "{B43017A0-E424-4623-901F-A79B34526D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{B1C7142D-AC2D-4716-B5B8-225233058241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{F1C3F1AB-64C6-48C5-A59E-3B90E983CCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSignal", "ChatSignal\ChatSignal.csproj", "{D77E086C-0E13-4F92-AFBF-EA14B0FC09BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81784D73-B95C-492C-8238-BBD4692A5A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81784D73-B95C-492C-8238-BBD4692A5A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81784D73-B95C-492C-8238-BBD4692A5A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81784D73-B95C-492C-8238-BBD4692A5A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43017A0-E424-4623-901F-A79B34526D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43017A0-E424-4623-901F-A79B34526D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43017A0-E424-4623-901F-A79B34526D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43017A0-E424-4623-901F-A79B34526D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C7142D-AC2D-4716-B5B8-225233058241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C7142D-AC2D-4716-B5B8-225233058241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C7142D-AC2D-4716-B5B8-225233058241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C7142D-AC2D-4716-B5B8-225233058241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C3F1AB-64C6-48C5-A59E-3B90E983CCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C3F1AB-64C6-48C5-A59E-3B90E983CCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C3F1AB-64C6-48C5-A59E-3B90E983CCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C3F1AB-64C6-48C5-A59E-3B90E983CCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77E086C-0E13-4F92-AFBF-EA14B0FC09BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77E086C-0E13-4F92-AFBF-EA14B0FC09BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77E086C-0E13-4F92-AFBF-EA14B0FC09BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77E086C-0E13-4F92-AFBF-EA14B0FC09BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
